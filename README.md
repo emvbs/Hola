@@ -1,2 +1,2 @@
 # Hola
-https://github.com/emvbs/Hola.git
+https://emvbs.github.io/Hola/
